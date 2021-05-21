@@ -9,19 +9,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ![image](https://user-images.githubusercontent.com/79819331/119153987-be09d500-ba1f-11eb-8a7f-73de245ba73f.png)
 ![image](https://user-images.githubusercontent.com/79819331/119154070-d24dd200-ba1f-11eb-8b0e-b07b58ed473d.png)
-Goal	Number Successful	Number Failed	Number Canceled	Total Projects	Percentage Successful	Percentage Failed	Percentage Canceled
-Less than 1000	322	113	18	453	71%	25%	4%
-1000 to 4999	932	420	60	1412	66%	30%	4%
-5000 to 9999	381	283	52	716	53%	40%	7%
-10000 to 14999	168	144	40	352	48%	41%	11%
-15000 to 19999	94	90	17	201	47%	45%	8%
-20000 to 24999	62	72	14	148	42%	49%	9%
-25000 to 29999	55	64	18	137	40%	47%	13%
-30000 to 34999	32	37	13	82	39%	45%	16%
-35000 to 39999	26	22	7	55	47%	40%	13%
-40000 to 44999	21	16	6	43	49%	37%	14%
-45000 to 49999	6	11	4	21	29%	52%	19%
-Greater than or equal to 50000	86	258	100	444	19%	58%	23%
+
 ![image](https://user-images.githubusercontent.com/79819331/119154114-dc6fd080-ba1f-11eb-9fff-b3633a4b3665.png)
 
 
