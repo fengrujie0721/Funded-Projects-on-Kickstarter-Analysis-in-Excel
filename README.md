@@ -1,6 +1,7 @@
 # excel-challenge
 
 
+![image](https://user-images.githubusercontent.com/79819331/119146261-75025280-ba18-11eb-8295-7d6bc4340f5d.png)
 
 1.	Three conclusions
 A.	Category Theater has the largest number of successful cases, which is 839. 
