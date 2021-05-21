@@ -35,10 +35,44 @@ The dates stored within the deadline and launched_at columns use Unix timestamps
 ![image](https://user-images.githubusercontent.com/79819331/119154114-dc6fd080-ba1f-11eb-9fff-b3633a4b3665.png)
 
 
+Create a new sheet with 8 columns:
+
+Goal
+Number Successful
+Number Failed
+Number Canceled
+Total Projects
+Percentage Successful
+Percentage Failed
+Percentage Canceled
+
+In the Goal column, create 12 rows with the following headers:
+
+Less than 1000
+1000 to 4999
+5000 to 9999
+10000 to 14999
+15000 to 19999
+20000 to 24999
+25000 to 29999
+30000 to 34999
+35000 to 39999
+40000 to 44999
+45000 to 49999
+Greater than or equal to 50000
+
+Using the COUNTIFS() formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the Number Successful, Number Failed, and Number Canceled columns with this data. Add up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
+
+
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/79819331/119154634-5738eb80-ba20-11eb-82b3-367ab285e2c1.png)
 
+
+Create a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 
 
 
