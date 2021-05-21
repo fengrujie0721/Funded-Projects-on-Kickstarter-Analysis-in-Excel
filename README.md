@@ -11,20 +11,30 @@ Use conditional formatting to fill each cell in the state column with a differen
 
 
 ![image](https://user-images.githubusercontent.com/79819331/119153579-5f445b80-ba1f-11eb-9666-a405f082ff63.png)
-Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category. Create a stacked column pivot chart that can be filtered by country based on the table you have created.
+
+Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category. 
+
 
 ![image](https://user-images.githubusercontent.com/79819331/119153933-b0ece600-ba1f-11eb-99b0-5f9141670ab9.png)
-Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category. Create a stacked column pivot chart that can be filtered by country and parent-category based on the table you have created.
 
 
+Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
 
 
 
 ![image](https://user-images.githubusercontent.com/79819331/119153987-be09d500-ba1f-11eb-8a7f-73de245ba73f.png)
+
+Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category. Create a stacked column pivot chart that can be filtered by country and parent-category based on the table you have created.
+
+
 ![image](https://user-images.githubusercontent.com/79819331/119154070-d24dd200-ba1f-11eb-8b0e-b07b58ed473d.png)
 
+The dates stored within the deadline and launched_at columns use Unix timestamps. Fortunately for us, there is a formula that can be used to convert these timestamps to a normal date. Create a new column named Date Created Conversion that will use this formula to convert the data contained within launched_at into Excel's date format. Create a new column named Date Ended Conversion that will use this formula to convert the data contained within deadline into Excel's date format. Create a new sheet with a pivot table with a column of state, rows of Date Created Conversion, values based on the count of state, and filters based on parent category and Years.
+
 ![image](https://user-images.githubusercontent.com/79819331/119154114-dc6fd080-ba1f-11eb-9fff-b3633a4b3665.png)
+
+
 
 
 ![image](https://user-images.githubusercontent.com/79819331/119154634-5738eb80-ba20-11eb-82b3-367ab285e2c1.png)
