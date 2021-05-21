@@ -13,9 +13,10 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ![image](https://user-images.githubusercontent.com/79819331/119154114-dc6fd080-ba1f-11eb-9fff-b3633a4b3665.png)
 
 
+![image](https://user-images.githubusercontent.com/79819331/119154417-235dc600-ba20-11eb-9f59-25e1f26d9825.png)
 
 
-
+Summary
 1.	Three conclusions
 A.	Category Theater has the largest number of successful cases, which is 839. 
 B.	Sub-Category Plays has the largest number of successful cases, which is 694.
