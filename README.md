@@ -13,7 +13,8 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ![image](https://user-images.githubusercontent.com/79819331/119154114-dc6fd080-ba1f-11eb-9fff-b3633a4b3665.png)
 
 
-![image](https://user-images.githubusercontent.com/79819331/119154417-235dc600-ba20-11eb-9f59-25e1f26d9825.png)
+![image](https://user-images.githubusercontent.com/79819331/119154558-44261b80-ba20-11eb-86ff-a42b5c9ded10.png)
+
 
 
 Summary
